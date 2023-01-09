@@ -6,7 +6,7 @@ I developed this mobile application using [Google AppSheet](https://cloud.google
   <img src="https://user-images.githubusercontent.com/37047605/211243904-75e935c6-79a7-4271-a78c-6366393a03b4.png" />
 </p>
 
-This mobile application is designed to be used on board any flight. I can be used by internal crew with little to no technical experience. The app enables a high-touch, whiteglove approach to service as it automates many of the components of service that require memorization and effort. Crew is allowed to simply focus on delivering a high-class experience to passengers. 
+This mobile application is designed to be used on board any flight. It can be used by internal crew with little to no technical experience. The app enables a high-touch, whiteglove approach to service as it automates many of the components of service that require memorization and effort. Crew is allowed to simply focus on delivering a high-class experience to passengers. 
 
 The real advantage of this application is the ability to track and aggregate passenger preference data in an offline data warehouse. 
 
