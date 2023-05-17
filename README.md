@@ -1,6 +1,6 @@
 # Flight Inventory Mobile App
 
-I developed this mobile application using [Google AppSheet](https://cloud.google.com/appsheet); a no-code platform that enables users to build custom apps and automations using data stored in Google Sheets or other sources.
+I developed this mobile application using [Google AppSheet](https://cloud.google.com/appsheet); a no-code platform that enables users to build custom apps and automations using data stored in Google Sheets or other sources. (All data showcased has been anonymized.)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/37047605/211243904-75e935c6-79a7-4271-a78c-6366393a03b4.png" />
